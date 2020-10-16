@@ -1,0 +1,14 @@
+h1 { font-size:1.6rem; }
+   h2 { font-size:1.4rem; }
+   h3 { font-size:1.4rem; }
+   h4 { font-size:1.2rem; }
+   #wrapper td { padding:.75rem; }
+   #calcform {
+      padding:15px;
+      background:#f9563a;
+      border:1px solid #eee;
+      border-radius:7px;
+      max-width:500px;
+   }
+   #cmdiv, #kgdiv { display:none; }
+   .btn i { vertical-align:middle; }
